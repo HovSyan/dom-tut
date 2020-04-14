@@ -1,7 +1,11 @@
-task 1: Create this functionality:
-https://kamzed.github.io/clock/
+task1. Create a clock with stop and start.
 
-task 2: Create a calculator
-https://www.online-calculator.com/
+task2. Modify your calculator to listen to keyboard events
++, -, 1, 2, 3, 4, 5 ..., =, /, *, backslash, C
 
-The calculator must have +, -, /, *, square root, C (deleting last added digit), =
+task3. Create a simple login form with email input, password input, and submit button. After submit button click
+you should validate email and password.
+Validation 1. The email must be a valid email (example@example.com)
+Validation 2. The password must be more than 12 characters length and must include a digit, 
+an upper case letter and a special symbol.
+If the form is not valid you should alert it to user. If the form is valid you should console.log email and password.
