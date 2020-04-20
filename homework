@@ -1,11 +1,12 @@
-task1. Create a clock with stop and start.
+This tasks are a little bit harder but you can do it.
 
-task2. Modify your calculator to listen to keyboard events
-+, -, 1, 2, 3, 4, 5 ..., =, /, *, backslash, C
-
-task3. Create a simple login form with email input, password input, and submit button. After submit button click
-you should validate email and password.
-Validation 1. The email must be a valid email (example@example.com)
-Validation 2. The password must be more than 12 characters length and must include a digit, 
-an upper case letter and a special symbol.
-If the form is not valid you should alert it to user. If the form is valid you should console.log email and password.
+task 1. Create a simple calendar.
+Requirements:
+  - It will be possible to navigate to any date between 01.01.1990 and 01.01.2050
+  - Current date will be marked with blue, other dates with something different.
+  
+task 2. Your webpage will be divided into 2 sections. The first will be the list of students in faculty. It is a table with
+student name, surname, course and grade. At the bottom of the section will be a button "Add New". When clicking that button
+the second section will open, where it will be possible to add new student (aka name, surname, course, grade.) When clicking
+"save" button in the second section, the new-added student must be visible in the first section list, and the second section
+must hide.
