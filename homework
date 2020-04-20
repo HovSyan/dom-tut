@@ -4,8 +4,8 @@ task 1. Create a simple calendar.
 Requirements:
   - It will be possible to navigate to any date between 01.01.1990 and 01.01.2050
   - Current date will be marked with blue, other dates with something different.
-  - Only one monthe will be visible on the page. If one wants to navigate to a different date, he must type the date in
-    the corresponding input (design yourself)
+  - Only one monthe will be visible on the page. If one wants to navigate to a different date (in other month),
+    he must type the date in the corresponding input (design yourself)
   
 task 2. Your webpage will be divided into 2 sections. The first will be the list of students in faculty. It is a table with
 student name, surname, course and grade. At the bottom of the section will be a button "Add New". When clicking that button
